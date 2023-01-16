@@ -1,5 +1,5 @@
 # thsauto
-同花顺自动下单工具
+自动工具
 
 ```
 python .\server.py  192.168.0.116 5000 C:\Users\match\Desktop\THS\xiadan.exe
